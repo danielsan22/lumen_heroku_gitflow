@@ -15,6 +15,7 @@ class User extends Model implements AuthenticatableContract, AuthorizableContrac
     /**
      * The attributes that are mass assignable.
      *dDDD
+     *More changes added.
      * @var array
      */
     protected $fillable = [
