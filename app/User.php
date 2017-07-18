@@ -25,7 +25,7 @@ class User extends Model implements AuthenticatableContract, AuthorizableContrac
 
     /**
      * The attributes excluded from the model's JSON form.
-     *
+     *Master
      * @var array
      */
     protected $hidden = [
